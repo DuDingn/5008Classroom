@@ -1,2 +1,2 @@
 # 5008Classroom
-Classroom exercise
+This is a project for class exercise on Jan 21
